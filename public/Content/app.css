@@ -1,4 +1,10 @@
+
 /*Custom CSS goes here*/
+/*Assignmet 1, COM229
+This Assignment created and designed by Omar Khesruf"
+ Student name: Omar Khesruf
+ Student number: 301163767
+ date: 29 sept 2021*/
 .table {
 	text-align: left;
 	border: medium double #FEFEFE;
@@ -38,6 +44,7 @@ body {
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
 }
+
 
 .cover-container {
   max-width: 42em;
